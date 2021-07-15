@@ -1,5 +1,6 @@
 body {
 	background-color: #CFE1FF; /*#CACADD;*/
+	background-image: url('img/tab_pic.png');
 }
 
 div.plane {
@@ -27,9 +28,6 @@ div.main {
 	font-size:medium;
 	text-align:left;
 }
-
-
-
 
 
 
