@@ -1,6 +1,5 @@
 body {
 	background-color: #CACADD;
-	/*background-color: #F0F0E8; */	 
 }
 
 div.plane {
@@ -149,7 +148,6 @@ address {
 }
 
 #current {
-	/*background-color: #DEE6EA;*/
 	background-color: #E0F3F9;
 	text-decoration: none;
 }
@@ -165,7 +163,6 @@ address {
 }
 
 #nav a:hover {
-	/*background-color: #BDCED4;*/
 	background-color: #CBEAF5;
 	text-decoration: none;
 }    
